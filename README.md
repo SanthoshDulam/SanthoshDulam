@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Santhosh Dulam
 
 🎓 **B.Tech – Electronics & Communication Engineering | Amrita Vishwa Vidyapeetham**  
-💻 Passionate about Full-Stack Development, Embedded Systems & Applied AI/ML  
+💻 Passionate Engineer | Full-Stack .NET | Database Specialist | Building Scalable Applications | Turning logic into real-world systems
 
 ---
 
