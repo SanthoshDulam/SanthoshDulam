@@ -18,7 +18,7 @@
 | 6 | **🌧 Rain Sensor Interface** | ARM7 (LPC2148), Embedded C | Smart rain detection and LCD alert system for IoT-based weather monitoring. |
 | 7 | **🚗 Virtual Car Simulation** | C Language, FSM Logic | Virtual car model built with finite state machine principles in C. |
 | 8 | **🔐 Fullstack Auth System** | React, Node.js, MongoDB, JWT | Secure MERN app featuring JWT authentication and cloud deployment. |
-| 9 | **🌐 NRG User Portal (ASP.NET MVC)** | .NET MVC, EF Core, SQL Server, BCrypt | A clean user authentication web app with Register, Login, Hashed Passwords, Session handling, and MyAccount. Built using Code-First EF migrations. |
+| 9 | **🌐 User Portal (ASP.NET MVC)** | .NET MVC, EF Core, SQL Server, BCrypt | A clean user authentication web app with Register, Login, Hashed Passwords, Session handling, and MyAccount. Built using Code-First EF migrations. |
 
 ---
 
