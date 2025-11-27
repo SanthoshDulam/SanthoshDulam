@@ -34,7 +34,7 @@
 ### ⚙️ Tech Stack Snapshot
 
 #### 💻 Software & Web  
-`C#` · `.NET` · `SQL Server` · `React` · `Node.js` · `MongoDB` · `JavaScript`
+`C#` · `.NET` · `SQL Server` · `React` · `ASP.Net` · `HTML` · `CSS` · `JavaScript`
 
 #### 🤖 AI/ML & Python  
 `TensorFlow` · `OpenCV` · `NumPy` · `Pandas` · `Matplotlib`
